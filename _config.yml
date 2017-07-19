@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+title: Doan Van Phuong's CV 
+description: Doan Van Phuong's CV
+favicon: /assets/img/avatar.png
+baseurl: https://EthanDoan.github.io/resumecard
+url: https://EthanDoan.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,16 +14,17 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Doan Van Phuong
+  title: iOS Developer
+  address: Ho Chi Minh, Vietnam
+  email: doanvanphuong@yahoo.com
+  link: http://doanvanphuong.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  github: EthanDoan
+  linkedin: Doan Phuong
+  phone: +84 909 182 012
+  # twitter: ddbullfrog
+  gavatar: /resumecard/assets/img/avatar.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
@@ -33,7 +34,7 @@ author:
       title: Java Developer
       started: 2014
       duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: I am not a description.<br/> I am not description.<br/>I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
       company: XXX Ltd
       location: Shanghai, China
@@ -59,7 +60,7 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Vietnam
       proficiency: Native
     - language2:
       name: English
@@ -69,17 +70,17 @@ author:
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: Objective-C
+      percentage: 80%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Swift
+      percentage: 70%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: React Native
+      percentage: 50%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: Jekyll
+      percentage: 50%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: C++
+      percentage: 50%
