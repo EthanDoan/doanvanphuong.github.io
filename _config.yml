@@ -1,7 +1,7 @@
 # Site settings
 title: Doan Van Phuong's CV 
 description: Doan Van Phuong's CV
-favicon: /assets/img/avatar.png
+favicon: /blob/master/assets/img/avatar.PNG
 baseurl: https://github.com/EthanDoan/doanvanphuong.github.io
 url: https://github.com/EthanDoan/doanvanphuong.github.io
 rss_url: /pages/atom.xml
